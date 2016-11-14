@@ -1,3 +1,5 @@
+已废弃
+
 # EdwinBlog
 Blog demo
 ---
